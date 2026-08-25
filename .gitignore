@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+results/
+models/
+logs/
+tmp/
+*.log
+.idea/
+.vscode/
+*.swp
+.DS_Store
+.claude/
+CLAUDE.md
+.env
