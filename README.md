@@ -145,3 +145,16 @@ results/agentic_misalignment_decode_{tool_mode}/{model}/
     ├── {intervention,prompting}/              # Defense runs
     └── {mode}_final_judge/                    # Judge labels for defense runs
 ```
+
+## Citation
+
+If you find this work useful in your research, please cite our paper:
+
+```bibtex
+@article{zhang2026intentasatoolmakeseasytrack,
+      title={INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment},
+      author={Yutong Zhang and Jianshuo Dong and Peng Xu and Long Wang and Jie Zhang and Tianwei Zhang and Xiaoping Zhang and Han Qiu},
+      year={2026},
+      journal={arXiv preprint arXiv:2608.27348},
+}
+```
